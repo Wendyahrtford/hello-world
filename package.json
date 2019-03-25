@@ -12,7 +12,8 @@
 	},
 	"repository": {
 		"type": "git",
+		"author": "Wendy Hartford", 
 		"url": "https://github.com/Wendyhartford/hello-world"
-	},
-	"author": "Wendy Hartford", 
+	}
+	
 }
